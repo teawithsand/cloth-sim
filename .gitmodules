@@ -1,0 +1,3 @@
+[submodule "libs/GeometricTools"]
+	path = libs/GeometricTools
+	url = https://github.com/davideberly/GeometricTools.git
