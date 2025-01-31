@@ -1,0 +1,15 @@
+{
+    "name": "learn-opengl",
+    "version": "0.1.0",
+    "dependencies": [
+      "glfw3",
+      "glad",
+      "glm",
+      "freetype",
+      "tinyobjloader",
+      {
+        "name": "imgui",
+        "features": ["freetype", "glfw-binding", "glfw-binding", "opengl3-binding"]
+      }
+    ]
+  }
